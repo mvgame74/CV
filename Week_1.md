@@ -5,6 +5,16 @@
  - I can program fluently
  - I can debugg anything
 
+## DIARY
+
+Monday: First day; introductions; Setting principles of Self Driven Learning
+Tuesday: Peer Group; Workshop on Debugging (Debugging exercise on Fizzbuzz & Cipher); First Pairing session for Boris Bikes
+Wednesday: Goal setting & Reflective Learning; Work independently on TDD and its basis; Second Pairing Session for Boris Bikes
+Thursday: 
+Friday
+
+## GOALS:
+
 ## PROGRESSION
 
 ## RESOURCES

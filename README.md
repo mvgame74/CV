@@ -1,4 +1,4 @@
-## Maria Valero Gonzalez
+# Maria Valero Gonzalez
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -53,7 +53,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (29th March 2021 to 18th July 2021)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,16 +62,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Fycsa (2001)
+- Web Programming (Based on C:, HTML, SQL, JavaScript, Java)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Universidad Complutense de Madrid (October 1992 to February 1999)
+- Law Degree
 
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
 
+#### Languages
+
+Spanish – Native; English – Fluent; French – Basic; Italian – Basic
+
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Best Cook Award (two years in a row), keen hiker and traveller, love both the time spent in the mountain and the well deserved rest in the pub.
