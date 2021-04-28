@@ -18,7 +18,6 @@
 Reflect: What does this learning goal mean and why is it relevant?
 
 | Learning Objective           | EVIDENCE                           | VALIDATE                            | Links        |
-|                              | How will you know you achieved it? | How will you know how well you did? |              |
 | -----------------------------| -----------------------------------|-------------------------------------|--------------|
 |                              |                                    | React, Jest, etc.                   |              |
 |                              |                                    |                                     |              |
